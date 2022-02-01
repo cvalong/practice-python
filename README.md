@@ -1,2 +1,3 @@
 # practice-python
-my practicing python code
+small python programs
+use at your own risk
